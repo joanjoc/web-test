@@ -14,7 +14,7 @@ export default function App() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Web Test
+            Web Test2
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
@@ -22,7 +22,7 @@ export default function App() {
 
       <Container sx={{ mt: 4 }}>
         <Typography variant="h4" component="h1" gutterBottom>
-          React + MUI Test Page
+          React + MUI Test Page 2
         </Typography>
 
         <Typography variant="body1" paragraph>
